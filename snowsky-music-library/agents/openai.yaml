@@ -1,0 +1,4 @@
+interface:
+  display_name: "Snowsky Music Library"
+  short_description: "Clean and prepare music libraries for Snowsky"
+  default_prompt: "Use $snowsky-music-library to audit, organize, extract archives, and standardize album art for this music folder."
